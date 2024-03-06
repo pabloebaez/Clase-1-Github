@@ -1,2 +1,3 @@
 # Clase-1-Github
-Juego de Dados
+Juego de Dados en Javascript
+Se corre con Terminal (Node JS)
